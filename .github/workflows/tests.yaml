@@ -1,3 +1,5 @@
+name: CI - Testes
+
 on:
   pull_request:
     branches:
